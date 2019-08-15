@@ -1,5 +1,5 @@
 {
-  "main": "./BareApp.js",
+  "main": "BareApp.js",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
@@ -7,10 +7,10 @@
     "web": "expo start --web",
     "eject": "expo eject",
     "test": "jest --watchAll",
-    "deploy": "gh-pages -d web-build -b master",
+    "deploy": "gh-pages -d web-build",
     "predeploy": "expo build:web"
   },
-  "homepage": "http://evanbacon.github.io/gh-pages-expo-web-deployment-test/",
+  "homepage": "http://evanbacon.github.io/gh-pages-expo-web-deployment-test",
   "jest": {
     "preset": "jest-expo"
   },
