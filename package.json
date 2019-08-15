@@ -7,7 +7,7 @@
     "web": "expo start --web",
     "eject": "expo eject",
     "test": "jest --watchAll",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d web-build",
     "predeploy": "expo build:web"
   },
   "homepage": "http://evanbacon.github.io/gh-pages-expo-web-deployment-test",
