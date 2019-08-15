@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/gh-pages-expo-web-deployment-test/manifest.json"
   },
   {
-    "revision": "9dbfe8c3a834772a885fecd95059ad52",
+    "revision": "d55657e517bbc7f36fb3d5090e04b023",
     "url": "/gh-pages-expo-web-deployment-test/index.html"
   },
   {
