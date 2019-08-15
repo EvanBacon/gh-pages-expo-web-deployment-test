@@ -10,5 +10,22 @@
   "related_applications": [],
   "short_name": "t14",
   "start_url": ".",
-  "theme_color": "#4630EB"
+  "theme_color": "#4630EB",
+  "icons": [
+    {
+      "src": "/apple/icons/icon_180x180.621d690a0d6584e00bce45d25ead4983.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple/icons/icon_192x192.19de9c268927fc723eefffaf4f786495.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/apple/icons/icon_512x512.07d1f26941f9f06abca5950411f31e31.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
